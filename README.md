@@ -24,4 +24,4 @@ POSSIBLE USERNAME FIELD FOUND: username=XXXXXXX@XXXXXXXX
 [*] WE GOT A HIT! Printing the output:                                          \/\/\/
 POSSIBLE PASSWORD FIELD FOUND: enc_password=#PWD_INSTAGRAM_BROWSER:0:1734392052:XXXXXXX   
 
-![Alt text](./passwd.png "Optional title")
+![Alt text](./Screenshot_2024-12-16_20_47_46.png")
